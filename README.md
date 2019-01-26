@@ -1,1 +1,6 @@
 # QuanLyThuVien
+This console app will help you to manage library business with statistics customer who come to the library, number of book on shell, ....
+Option:
+1.  Manage readers/customer.
+2.  Manage book with category, prize, ...
+3.  Set up the note to remember the day borrow and the day receive.
